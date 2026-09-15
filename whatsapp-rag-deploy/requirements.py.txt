@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-google-genai==2.1.5
+faiss-cpu
+sentence-transformers
